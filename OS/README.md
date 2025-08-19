@@ -34,3 +34,9 @@
 - SCAN
 - C-SCAN
 ---
+
+**Compile & Run:**  
+```bash
+$ gcc process_demo.c -o process_demo  
+$ ./process_demo  
+```
